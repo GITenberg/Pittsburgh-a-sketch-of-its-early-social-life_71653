@@ -1,0 +1,27 @@
+_repo: Pittsburgh-a-sketch-of-its-early-social-life_71653
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dahlinger, Charles W.
+    gutenberg_agent_id: '56314'
+    url: http://www.gutenberg.org/2009/agents/56314
+description: ''
+gutenberg_issued: '2023-09-15'
+identifiers:
+  gutenberg: '71653'
+language: en
+pgterms:marc904: https://archive.org/details/pittsburghsketch00dahliala/page/n7/mode/2up
+pgterms:marc905: 20210326160637dahlinger
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pittsburgh: a sketch of its early social life'
+url: http://www.gutenberg.org/ebooks/71653
